@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background-color: rgba(165, 243, 224, 0.877);
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 30%;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50%;
+    width: 50px;
+    margin: 0 auto;
+}
+
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.navbar-nav > li > a {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.navbar-brand {
+    font-size: 20em;
+    margin-right: 20em;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-right: 10em;
+}
+
+.nav-link {
+    padding: 0.5em 1em;
+}
